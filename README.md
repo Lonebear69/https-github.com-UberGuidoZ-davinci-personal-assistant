@@ -7,11 +7,11 @@ This script is a voice-based personal assistant powered by OpenAI's ChatGPT. It 
 
 | Section     |
 |-------------|
-| [Program Information] Personal Assistant      |
-| [Installation] See Below                      |
-| [Usage] See Below                             |
-| [Contributing] N/A                            |
-| [License] No commercial use                   |
+| [Program Information](#program-information)      |
+| [Installation](#installation)                      |
+| [Usage](#usage)                             |
+| [Contributing](#contributing)                            |
+| [License](#license)                   |
 
 ## Program Information
 
@@ -78,7 +78,7 @@ Note: Make sure you have a working microphone connected to your device for voice
 ## Contributing
 ---------------------------------------------------------------------------------------------------------
 
-N/A
+ReadMe updated by [UberGuidoZ](https://github.com/UberGuidoZ/)
 
 
 ---------------------------------------------------------------------------------------------------------
